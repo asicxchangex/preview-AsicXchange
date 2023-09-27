@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/preview-AsicXchange/static/css/main.ea9e2401.css",
-    "main.js": "/preview-AsicXchange/static/js/main.88557f7e.js",
+    "main.css": "/preview-AsicXchange/static/css/main.ef7a395e.css",
+    "main.js": "/preview-AsicXchange/static/js/main.fb2fbdf7.js",
+    "static/media/Rectangle 312.png": "/preview-AsicXchange/static/media/Rectangle 312.88be7cad3042e1ac1947.png",
+    "static/media/Rectangle 309.png": "/preview-AsicXchange/static/media/Rectangle 309.e9ef1b28318c38c22e40.png",
+    "static/media/Rectangle 310.png": "/preview-AsicXchange/static/media/Rectangle 310.a79e8f48ea23024a03eb.png",
+    "static/media/Rectangle 311.png": "/preview-AsicXchange/static/media/Rectangle 311.3db45f8b095696de5c13.png",
     "static/media/image 7.png": "/preview-AsicXchange/static/media/image 7.a973636ff75aa35cac3a.png",
     "static/media/image 6.jpg": "/preview-AsicXchange/static/media/image 6.746641668644e8688449.jpg",
     "index.html": "/preview-AsicXchange/index.html",
-    "main.ea9e2401.css.map": "/preview-AsicXchange/static/css/main.ea9e2401.css.map",
-    "main.88557f7e.js.map": "/preview-AsicXchange/static/js/main.88557f7e.js.map"
+    "main.ef7a395e.css.map": "/preview-AsicXchange/static/css/main.ef7a395e.css.map",
+    "main.fb2fbdf7.js.map": "/preview-AsicXchange/static/js/main.fb2fbdf7.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea9e2401.css",
-    "static/js/main.88557f7e.js"
+    "static/css/main.ef7a395e.css",
+    "static/js/main.fb2fbdf7.js"
   ]
 }
