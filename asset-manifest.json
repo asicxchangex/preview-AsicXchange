@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/preview-AsicXchange/static/css/main.cdf7b199.css",
-    "main.js": "/preview-AsicXchange/static/js/main.e579ba23.js",
+    "main.css": "/preview-AsicXchange/static/css/main.dd8ce1fa.css",
+    "main.js": "/preview-AsicXchange/static/js/main.40d8c420.js",
+    "static/media/AsicXchangeVid.mp4": "/preview-AsicXchange/static/media/AsicXchangeVid.7a041fa29876a0fd9d41.mp4",
+    "static/media/Miner.png": "/preview-AsicXchange/static/media/Miner.29984290ce06ef5120f9.png",
     "static/media/Rectangle 312.png": "/preview-AsicXchange/static/media/Rectangle 312.88be7cad3042e1ac1947.png",
+    "static/media/HomeImg.png": "/preview-AsicXchange/static/media/HomeImg.b766b2d0805c4fe83930.png",
     "static/media/Rectangle 309.png": "/preview-AsicXchange/static/media/Rectangle 309.e9ef1b28318c38c22e40.png",
     "static/media/Rectangle 310.png": "/preview-AsicXchange/static/media/Rectangle 310.a79e8f48ea23024a03eb.png",
     "static/media/Rectangle 311.png": "/preview-AsicXchange/static/media/Rectangle 311.3db45f8b095696de5c13.png",
-    "static/media/image 7.png": "/preview-AsicXchange/static/media/image 7.a973636ff75aa35cac3a.png",
     "static/media/image 6.jpg": "/preview-AsicXchange/static/media/image 6.746641668644e8688449.jpg",
     "index.html": "/preview-AsicXchange/index.html",
-    "main.cdf7b199.css.map": "/preview-AsicXchange/static/css/main.cdf7b199.css.map",
-    "main.e579ba23.js.map": "/preview-AsicXchange/static/js/main.e579ba23.js.map"
+    "main.dd8ce1fa.css.map": "/preview-AsicXchange/static/css/main.dd8ce1fa.css.map",
+    "main.40d8c420.js.map": "/preview-AsicXchange/static/js/main.40d8c420.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdf7b199.css",
-    "static/js/main.e579ba23.js"
+    "static/css/main.dd8ce1fa.css",
+    "static/js/main.40d8c420.js"
   ]
 }
