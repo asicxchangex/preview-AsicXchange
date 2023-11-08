@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/preview-AsicXchange/static/css/main.0685c9f4.css",
-    "main.js": "/preview-AsicXchange/static/js/main.fa517a26.js",
+    "main.css": "/preview-AsicXchange/static/css/main.e53f623e.css",
+    "main.js": "/preview-AsicXchange/static/js/main.70c4402a.js",
     "static/media/AsicXchangeVid.mp4": "/preview-AsicXchange/static/media/AsicXchangeVid.7a041fa29876a0fd9d41.mp4",
     "static/media/Miner.png": "/preview-AsicXchange/static/media/Miner.29984290ce06ef5120f9.png",
     "static/media/2.png": "/preview-AsicXchange/static/media/2.b411cd1ffc2600fa9b40.png",
@@ -22,11 +22,11 @@
     "static/media/person1.png": "/preview-AsicXchange/static/media/person1.e9d78416bcab3d473972.png",
     "static/media/image 6.jpg": "/preview-AsicXchange/static/media/image 6.746641668644e8688449.jpg",
     "index.html": "/preview-AsicXchange/index.html",
-    "main.0685c9f4.css.map": "/preview-AsicXchange/static/css/main.0685c9f4.css.map",
-    "main.fa517a26.js.map": "/preview-AsicXchange/static/js/main.fa517a26.js.map"
+    "main.e53f623e.css.map": "/preview-AsicXchange/static/css/main.e53f623e.css.map",
+    "main.70c4402a.js.map": "/preview-AsicXchange/static/js/main.70c4402a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0685c9f4.css",
-    "static/js/main.fa517a26.js"
+    "static/css/main.e53f623e.css",
+    "static/js/main.70c4402a.js"
   ]
 }
