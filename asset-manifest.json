@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/preview-AsicXchange/static/css/main.11b17353.css",
-    "main.js": "/preview-AsicXchange/static/js/main.8f30960e.js",
+    "main.css": "/preview-AsicXchange/static/css/main.0685c9f4.css",
+    "main.js": "/preview-AsicXchange/static/js/main.18e190dc.js",
     "static/media/AsicXchangeVid.mp4": "/preview-AsicXchange/static/media/AsicXchangeVid.7a041fa29876a0fd9d41.mp4",
     "static/media/Miner.png": "/preview-AsicXchange/static/media/Miner.29984290ce06ef5120f9.png",
-    "static/media/1.png": "/preview-AsicXchange/static/media/1.b41455f772f90c4c1fec.png",
     "static/media/2.png": "/preview-AsicXchange/static/media/2.b411cd1ffc2600fa9b40.png",
-    "static/media/slide2.png": "/preview-AsicXchange/static/media/slide2.9de239bde347ddf2f526.png",
     "static/media/3.png": "/preview-AsicXchange/static/media/3.3939b008aeb73dee53e8.png",
+    "static/media/4.png": "/preview-AsicXchange/static/media/4.bd67f3316263017a765a.png",
+    "static/media/1.png": "/preview-AsicXchange/static/media/1.b41455f772f90c4c1fec.png",
+    "static/media/post4.png": "/preview-AsicXchange/static/media/post4.3309368485dd0298a221.png",
+    "static/media/post3.png": "/preview-AsicXchange/static/media/post3.a0bcda269a7403161bec.png",
+    "static/media/post5.png": "/preview-AsicXchange/static/media/post5.7cb638c09c3f288f01aa.png",
+    "static/media/slide2.png": "/preview-AsicXchange/static/media/slide2.9de239bde347ddf2f526.png",
+    "static/media/post1.png": "/preview-AsicXchange/static/media/post1.00498d38d0e6601f4500.png",
     "static/media/slide1.png": "/preview-AsicXchange/static/media/slide1.458a58e28d1a9e0435af.png",
-    "static/media/Rectangle 312.png": "/preview-AsicXchange/static/media/Rectangle 312.88be7cad3042e1ac1947.png",
+    "static/media/post2.png": "/preview-AsicXchange/static/media/post2.9013a3ae629458affe5e.png",
     "static/media/slide3.png": "/preview-AsicXchange/static/media/slide3.876d079da17b6da6d162.png",
     "static/media/HomeImg.png": "/preview-AsicXchange/static/media/HomeImg.b766b2d0805c4fe83930.png",
-    "static/media/Rectangle 309.png": "/preview-AsicXchange/static/media/Rectangle 309.e9ef1b28318c38c22e40.png",
-    "static/media/Rectangle 310.png": "/preview-AsicXchange/static/media/Rectangle 310.a79e8f48ea23024a03eb.png",
     "static/media/person3.png": "/preview-AsicXchange/static/media/person3.bb371bafff70a6e29e22.png",
     "static/media/person2.png": "/preview-AsicXchange/static/media/person2.91547a2621dd3ac24b88.png",
-    "static/media/Rectangle 311.png": "/preview-AsicXchange/static/media/Rectangle 311.3db45f8b095696de5c13.png",
     "static/media/person1.png": "/preview-AsicXchange/static/media/person1.e9d78416bcab3d473972.png",
     "static/media/image 6.jpg": "/preview-AsicXchange/static/media/image 6.746641668644e8688449.jpg",
     "index.html": "/preview-AsicXchange/index.html",
-    "main.11b17353.css.map": "/preview-AsicXchange/static/css/main.11b17353.css.map",
-    "main.8f30960e.js.map": "/preview-AsicXchange/static/js/main.8f30960e.js.map"
+    "main.0685c9f4.css.map": "/preview-AsicXchange/static/css/main.0685c9f4.css.map",
+    "main.18e190dc.js.map": "/preview-AsicXchange/static/js/main.18e190dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.11b17353.css",
-    "static/js/main.8f30960e.js"
+    "static/css/main.0685c9f4.css",
+    "static/js/main.18e190dc.js"
   ]
 }
